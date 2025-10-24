@@ -1,4 +1,9 @@
-# 👋 Hi, I’m Okoli Ebuka Francis
+# 👋 Hi, I’m Okoli Ebuka Francis                                                                                                                                                          
+![SQL](https://img.shields.io/badge/SQL-Data-blue?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power%20BI-Visualization-yellow?style=flat-square)
+![Excel](https://img.shields.io/badge/Excel-Data%20Cleaning-green?style=flat-square)
+![McKinsey Forward](https://img.shields.io/badge/McKinsey-Forward%20Program-blue?style=flat-square)
+
 
 I’m a **Mechanical Engineer turned Data Analyst** passionate about using data to solve real-world business problems.  
 Over the past months, I’ve worked on projects that combine **data cleaning**, **SQL querying**, and **insight generation** to help businesses make smarter decisions.  
