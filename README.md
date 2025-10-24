@@ -1,4 +1,10 @@
-# 👋 Hi, I’m Okoli Ebuka Francis                                                                                                                                                          
+<div align="center">
+
+# 👋 Hi, I’m Okoli Ebuka Francis  
+*Mechanical Engineer turned Data Analyst | ALX Data Fellow | McKinsey Forward Program*  
+
+</div>
+                                                                                                                                                          
 ![SQL](https://img.shields.io/badge/SQL-Data-blue?style=flat-square)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Visualization-yellow?style=flat-square)
 ![Excel](https://img.shields.io/badge/Excel-Data%20Cleaning-green?style=flat-square)
