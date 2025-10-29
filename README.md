@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I’m Okoli Ebuka Francis  
+# Hi, I’m Okoli Ebuka Francis  
 *Mechanical Engineer turned Data Analyst | ALX Data Fellow | McKinsey Forward Program*  
 
 </div>
