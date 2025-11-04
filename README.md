@@ -16,11 +16,11 @@ Over the past months, I’ve worked on projects that combine **data cleaning**, 
 
 ---
 
-## 🚀 What I Do
-- 📊 **Data Analytics:** SQL | Power BI | Excel | Data Cleaning | Exploratory Data Analysis  
-- 🧠 **Problem Solving:** I enjoy breaking complex challenges into simple, data-driven insights.  
-- 🤝 **Leadership:** I’ve led and collaborated on analytical projects, encouraging teamwork and clear communication.  
-- 🧩 **Continuous Learning:** Currently enrolled in the **McKinsey Forward Program**, where I recently completed a **business case study on public transportation optimization** — translating data into strategy-driven recommendations.  
+##  What I Do
+-  **Data Analytics:** SQL | Power BI | Excel | Data Cleaning | Exploratory Data Analysis  
+-  **Problem Solving:** I enjoy breaking complex challenges into simple, data-driven insights.  
+-  **Leadership:** I’ve led and collaborated on analytical projects, encouraging teamwork and clear communication.  
+-  **Continuous Learning:** Currently enrolled in the **McKinsey Forward Program**, where I recently completed a **business case study on public transportation optimization** — translating data into strategy-driven recommendations.  
 
 ---
 
@@ -55,12 +55,13 @@ Applied problem structuring, analytical reasoning, and synthesis to deliver acti
 ---
 
 ## ⚡ Fun Facts
-- 🎾 I enjoy tennis, reading, and exploring new technologies.  
-- 💬 I believe growth comes from curiosity, grit, and consistency.  
+-  I enjoy tennis, reading, and exploring new technologies.  
+-  I believe growth comes from curiosity, grit, and consistency.  
 
 ---
 
 ## 🌐 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/okoliebuka)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_draycoe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/okoliebuka) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_draycoe) 
+
 📧 **Email:** ebukaokoli1002@gmail.com
