@@ -30,7 +30,7 @@ Over the past months, I’ve worked on projects that combine **data cleaning**, 
 My first SQL-based project where I designed a complete database, asked 27 business questions, and solved them from **easy to advanced levels**.  
 Each solution was documented in this structure: **Explanation → Code → Insight → Result Image**.  
 
-### 💼 [McKinsey Forward Case Study]
+### 💼 [McKinsey Forward Case Study](https://www.linkedin.com/posts/okoliebuka_problemsolving-forwardlearning-dataanalysis-activity-7386645694268194816-7ars?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC6aPcgBhe-C3K70OgzMv8VKDUUaoeDrI-c)
 Explored how the **City of Hustleton** can use public transport data to reduce average traffic congestion time from **60 mins to 30 mins in 5 years**.  
 Applied problem structuring, analytical reasoning, and synthesis to deliver actionable insights.
 
