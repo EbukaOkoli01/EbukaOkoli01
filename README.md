@@ -30,7 +30,7 @@ Over the past months, I’ve worked on projects that combine **data cleaning**, 
 My first SQL-based project where I designed a complete database, asked 27 business questions, and solved them from **easy to advanced levels**.  
 Each solution was documented in this structure: **Explanation - Query - Insight - Result Image**.   
 
-## 🛒 [Cal_mart Database Analysis]
+### 🛒 [Cal_mart Database Analysis](https://github.com/EbukaOkoli01/Cal_Mart_SQL_Project)         
 A SQL-based retail analytics project designed to generate key business insights from multi-table transactional data.
 
 The project focused on:                                                                                                                                                        
@@ -49,7 +49,8 @@ The assessment focused on:
 - Data cleaning and deduplication using CTEs and window functions
 - Account activity and customer segmentation
 - CLV estimation using transaction behavior and tenure
-- Each solution was documented with: <b> Explanation - Query - Insight - Result Table </b>.
+
+Each solution was documented with: <b> Explanation - Query - Insight - Result Table </b>.
 
 ### 💼 [McKinsey Forward Case Study](https://www.linkedin.com/posts/okoliebuka_problemsolving-forwardlearning-dataanalysis-activity-7386645694268194816-7ars?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC6aPcgBhe-C3K70OgzMv8VKDUUaoeDrI-c)
 Explored how the **City of Hustleton** can use public transport data to reduce average traffic congestion time from **60 mins to 30 mins in 5 years**.  
