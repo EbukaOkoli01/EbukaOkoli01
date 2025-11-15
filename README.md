@@ -28,12 +28,22 @@ Over the past months, I’ve worked on projects that combine **data cleaning**, 
 
 ### 🏪 [DrayCoe_Mart Database Analysis](https://github.com/EbukaOkoli01/draycoe_mart_sql_project)
 My first SQL-based project where I designed a complete database, asked 27 business questions, and solved them from **easy to advanced levels**.  
-Each solution was documented in this structure: **Explanation - Query - Insight - Result Image**.                                       
+Each solution was documented in this structure: **Explanation - Query - Insight - Result Image**.   
+
+## 🛒 [Cal_mart Database Analysis]
+A SQL-based retail analytics project designed to generate key business insights from multi-table transactional data.
+
+The project focused on:                                                                                                                                                        
+- Data cleaning and deduplication using CTEs, subqueries, and window functions                                                                                                                                                        
+- Customer segmentation and profiling based on spending, activity level, and savings behavior                                                                                                                                                        
+- Sales and product performance analysis using aggregate and ranking functions                                                                                                                                                        
+- Retention and churn measurement through activity tracking and tenure analysis                                                                                                                                                        
+- Growth and financial trend analysis using month-over-month and year-over-year metrics                                                                                                                                                        
+
+Each query was structured in the following format: **Explanation - Query - Insight - Result Image**.
 
 ### 💳 [Fintech SQL Assessment Project](https://github.com/EbukaOkoli01/DataAnalytics-Assessment-v2)                                    
 A SQL-based business case study from a leading Nigerian fintech company. The task involved cleaning and analyzing multi-table datasets to answer real-world financial analytics questions on savings, investments, customer activity, and profitability.
-
-### [Cal_mart Database Analysis](https://github.com/EbukaOkoli01/Cal_Mart_SQL_Project)
 
 The assessment focused on:
 - Data cleaning and deduplication using CTEs and window functions
