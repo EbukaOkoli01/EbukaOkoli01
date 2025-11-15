@@ -33,6 +33,8 @@ Each solution was documented in this structure: **Explanation - Query - Insight 
 ### 💳 [Fintech SQL Assessment Project](https://github.com/EbukaOkoli01/DataAnalytics-Assessment-v2)                                    
 A SQL-based business case study from a leading Nigerian fintech company. The task involved cleaning and analyzing multi-table datasets to answer real-world financial analytics questions on savings, investments, customer activity, and profitability.
 
+### [Cal_mart Database Analysis](https://github.com/EbukaOkoli01/Cal_Mart_SQL_Project)
+
 The assessment focused on:
 - Data cleaning and deduplication using CTEs and window functions
 - Account activity and customer segmentation
