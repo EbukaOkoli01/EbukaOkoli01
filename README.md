@@ -30,7 +30,7 @@ Over the past months, I’ve worked on projects that combine **data cleaning**, 
 My first SQL-based project where I designed a complete database, asked 27 business questions, and solved them from **easy to advanced levels**.  
 Each solution was documented in this structure: **Explanation - Query - Insight - Result Image**.   
 
-### 🏪 [OmniMart Database Analysis](https://github.com/EbukaOkoli01/OmniMart_Excel/Power Query_project)
+### 🏪 [OmniMart Database Analysis](https://github.com/EbukaOkoli01/OmniMart_Excel/Power_Query_project)
 
 ### 🛒 [Cal_mart Database Analysis](https://github.com/EbukaOkoli01/Cal_Mart_SQL_Project)         
 A SQL-based retail analytics project designed to generate key business insights from multi-table transactional data.
