@@ -30,7 +30,18 @@ Over the past months, I’ve worked on projects that combine **data cleaning**, 
 My first SQL-based project where I designed a complete database, asked 27 business questions, and solved them from **easy to advanced levels**.  
 Each solution was documented in this structure: **Explanation - Query - Insight - Result Image**.   
 
-### 🏪 [OmniMart Database Analysis](https://github.com/EbukaOkoli01/OmniMart_Excel/Power_Query_project)
+### 🧾 [OmniMart Sales & Customer Analytics Project](https://github.com/EbukaOkoli01/OmniMart_Excel/Power_Query_project)
+An Excel and Power Query–based retail analytics project designed to uncover customer churn patterns, sales performance, and retention opportunities from multi-table transactional data between 2005 and 2008.
+
+The project focused on:
+
+- Data cleaning, transformation, and merging using Power Query
+- KPI development for Total Revenue, Profit, and Cost
+- Customer segmentation and churn classification using percentile analysis
+- Sales and revenue performance tracking with Month-over-Month and Year-over-Year metrics
+- Interactive dashboard design for customer and sales insights visualization
+
+Each analysis was structured in the following format: **Data Preparation – Calculation Logic – Insight – Dashboard Visualization**.
 
 ### 🛒 [Cal_mart Database Analysis](https://github.com/EbukaOkoli01/Cal_Mart_SQL_Project)         
 A SQL-based retail analytics project designed to generate key business insights from multi-table transactional data.
